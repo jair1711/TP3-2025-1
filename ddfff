@@ -1,0 +1,27 @@
+[33mcommit 1478aa4fc3d3bf436e71c7e1be27a983b60be7e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Jair Castillo <2213010326@untels.edu.pe>
+Date:   Tue Apr 22 16:11:33 2025 -0500
+
+    Python Cancer de Mama - knn
+
+[1mdiff --git a/tp3-2025-1 b/tp3-2025-1[m
+[1mindex 6c59444..4e45db2 160000[m
+[1m--- a/tp3-2025-1[m
+[1m+++ b/tp3-2025-1[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit 6c59444f95022a992af9e04b65f5457e00b2fb80[m
+[32m+[m[32mSubproject commit 4e45db28f6b1ac4c285fdb6ea36d4ebbd2ec016e[m
+
+[33mcommit a013d6ff416e579aca92526b0f95d5cc334c65fa[m
+Author: Jair Castillo <2213010326@untels.edu.pe>
+Date:   Tue Apr 22 15:20:20 2025 -0500
+
+    Excel corregido
+
+[1mdiff --git a/tp3-2025-1 b/tp3-2025-1[m
+[1mnew file mode 160000[m
+[1mindex 0000000..6c59444[m
+[1m--- /dev/null[m
+[1m+++ b/tp3-2025-1[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 6c59444f95022a992af9e04b65f5457e00b2fb80[m
